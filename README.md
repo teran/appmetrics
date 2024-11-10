@@ -1,5 +1,9 @@
 # appmetrics
 
+[![Verify](https://github.com/teran/appmetrics/actions/workflows/verify.yml/badge.svg?branch=master)](https://github.com/teran/appmetrics/actions/workflows/verify.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/teran/appmetrics)](https://goreportcard.com/report/github.com/teran/appmetrics)
+[![Go Reference](https://pkg.go.dev/badge/github.com/teran/appmetrics.svg)](https://pkg.go.dev/github.com/teran/appmetrics)
+
 Easy-to-use library to create metrics &amp; probes handlers
 
 ## Example
