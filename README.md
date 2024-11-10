@@ -41,7 +41,7 @@ func main() {
     // Run HTTP server in goroutine
     g.Go(func() error {
         srv := http.Server{
-            Addr:    cfg.MetricsAddr,
+            Addr:    ":8081",
             Handler: me,
         }
 
