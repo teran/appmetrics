@@ -1,5 +1,9 @@
 # appmetrics
 
+This library is moved to [go-collection](https://github.com/teran/go-collection)
+repository for unified experience and simplifying maintenance process.
+This repository will **not** be deleted for backward compatibility.
+
 [![Verify](https://github.com/teran/appmetrics/actions/workflows/verify.yml/badge.svg?branch=master)](https://github.com/teran/appmetrics/actions/workflows/verify.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/teran/appmetrics)](https://goreportcard.com/report/github.com/teran/appmetrics)
 [![Go Reference](https://pkg.go.dev/badge/github.com/teran/appmetrics.svg)](https://pkg.go.dev/github.com/teran/appmetrics)
